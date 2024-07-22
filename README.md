@@ -1,1 +1,2 @@
-# **A collection of APIs for services related to BUPT.**
+# **BUPT-API-Collection**
+![logo](image/README/logo.png)
